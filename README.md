@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lpstahl
-- 👀 I’m interested in game develoment
+- 👀 I’m interested in game development
 - 🌱 I’m currently learning Unity, C#
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me ...
